@@ -1,0 +1,2086 @@
+[
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_aaaa": [
+            "2603:1010:3:3::5b"
+        ],
+        "dns_mx": [
+            "microsoft-com.mail.protection.outlook.com"
+        ],
+        "dns_ns": [
+            "ns1-39.azure-dns.com"
+        ],
+        "domain": "microsoft.com",
+        "fuzzer": "*original"
+    },
+    {
+        "dns_a": [
+            "103.224.182.245"
+        ],
+        "domain": "microsofts.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsoftf.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "microsoftg.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "microsofth.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsoftm.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsoftx.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "ns73.domaincontrol.com"
+        ],
+        "domain": "microsofta.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "192.198.80.148"
+        ],
+        "domain": "microsoftt.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "microsofty.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-03.azure-dns.com"
+        ],
+        "domain": "microsoftc.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-08.azure-dns.com"
+        ],
+        "domain": "microsofte.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsofto.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-07.azure-dns.com"
+        ],
+        "domain": "microsoftr.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "23.227.38.32"
+        ],
+        "dns_mx": [
+            "mx.zoho.com"
+        ],
+        "dns_ns": [
+            "ns25.domaincontrol.com"
+        ],
+        "domain": "microsofti.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "a.share-dns.com"
+        ],
+        "domain": "microsoft2.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsoft6.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1-03.azure-dns.com"
+        ],
+        "domain": "microsoft8.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "dns31.hichina.com"
+        ],
+        "domain": "microsoftk.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsoftl.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsoftn.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "microsoftq.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.217"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "misrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "micrksoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microskft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "mkcrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "104.21.56.172"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3034::6815:38ac"
+        ],
+        "domain": "microsofu.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "104.21.67.78"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3030::6815:434e"
+        ],
+        "dns_ns": [
+            "dimitris.ns.cloudflare.com"
+        ],
+        "domain": "micro3oft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "109.70.26.37"
+        ],
+        "dns_ns": [
+            "ns3.nic.ru"
+        ],
+        "domain": "micvosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "macrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "148.113.42.184"
+        ],
+        "domain": "microsof4.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "162.255.119.100"
+        ],
+        "dns_mx": [
+            "eforward1.registrar-servers.com"
+        ],
+        "dns_ns": [
+            "dns1.registrar-servers.com"
+        ],
+        "domain": "microsofp.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "18.116.125.113"
+        ],
+        "dns_ns": [
+            "leanna.ns.cloudflare.com"
+        ],
+        "domain": "miarosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "185.53.177.53"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "microcoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "185.53.178.51"
+        ],
+        "domain": "micposoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "192.252.179.251"
+        ],
+        "domain": "micrgsoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "192.64.119.89"
+        ],
+        "domain": "micbosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "microwoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microqoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-05.azure-dns.com"
+        ],
+        "domain": "microsodt.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-08.azure-dns.com"
+        ],
+        "domain": "micsosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns11.xincache.com"
+        ],
+        "domain": "eicrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "mallory.ns.cloudflare.com"
+        ],
+        "domain": "mhcrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "mibrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_mx": [
+            "mx.zoho.com"
+        ],
+        "dns_ns": [
+            "ns-cloud-c1.googledomains.com"
+        ],
+        "domain": "mic2osoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns41.domaincontrol.com"
+        ],
+        "domain": "microsnft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "microsofd.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.mytrafficmanagement.com"
+        ],
+        "domain": "microsogt.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsovt.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_mx": [
+            "mta-gw.infomaniak.ch"
+        ],
+        "dns_ns": [
+            "ns1.infomaniak.ch"
+        ],
+        "domain": "migrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1-07.azure-dns.com"
+        ],
+        "domain": "mikrosoft.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "mnicrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "104.21.25.28"
+        ],
+        "dns_ns": [
+            "bob.ns.cloudflare.com"
+        ],
+        "domain": "xn--mcrosoft-c2a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.243.5"
+        ],
+        "dns_ns": [
+            "ns17.domaincontrol.com"
+        ],
+        "domain": "xn--mcrosoft-9ib.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "136.176.68.46"
+        ],
+        "domain": "rnlcrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "pdns03.domaincontrol.com"
+        ],
+        "domain": "ricrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "domain": "rnicros0ft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "ns01.domaincontrol.com"
+        ],
+        "domain": "xn--mcrosot-21b43q.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "ns61.domaincontrol.com"
+        ],
+        "domain": "xn--mirosoft-18a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.204.56"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "dns_ns": [
+            "ns01.cashparking.com"
+        ],
+        "domain": "rmicrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "159.25.16.88"
+        ],
+        "dns_mx": [
+            "inbound-smtp.eu-central-1.amazonaws.com"
+        ],
+        "dns_ns": [
+            "x.ns.joker.com"
+        ],
+        "domain": "xn--mcrosoft-g80d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-05.azure-dns.com"
+        ],
+        "domain": "nmicrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "20.50.64.14"
+        ],
+        "dns_ns": [
+            "ns1-32.azure-dns.com"
+        ],
+        "domain": "rricrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "217.160.118.36"
+        ],
+        "dns_mx": [
+            "xnmcrosoftpqc-com0m2b.mail.protection.outlook.com"
+        ],
+        "dns_ns": [
+            "ns69.domaincontrol.com"
+        ],
+        "domain": "xn--mcrosoft-pqc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "217.160.230.45"
+        ],
+        "dns_aaaa": [
+            "2001:8d8:1000:d299:e169:f645:9407:b82e"
+        ],
+        "domain": "xn--icrosoft-c3a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "217.76.128.34"
+        ],
+        "domain": "xn--microsft-03a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "51.103.31.58"
+        ],
+        "dns_mx": [
+            "mx3.mail.ovh.net"
+        ],
+        "dns_ns": [
+            "dns200.anycast.me"
+        ],
+        "domain": "xn--mcrosoft-bkb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "xn--mirosoft-t0a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "64.191.166.198"
+        ],
+        "dns_ns": [
+            "ns1.intelliwire.net"
+        ],
+        "domain": "xn--micosof-emd9545d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "64.191.166.201"
+        ],
+        "domain": "xn--micrsoft-p3a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "64.227.45.46"
+        ],
+        "dns_ns": [
+            "ns75.domaincontrol.com"
+        ],
+        "domain": "xn--microoft-l9c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "78.153.209.228"
+        ],
+        "domain": "xn--mcrosoft-21a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "85.13.134.6"
+        ],
+        "domain": "xn--microsof-hk0d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "91.195.240.123"
+        ],
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "domain": "nricrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "91.204.46.223"
+        ],
+        "dns_aaaa": [
+            "2a03:4000:61:83a5::20:1869"
+        ],
+        "dns_mx": [
+            "mail.xn--mcrosoft-tkb.com"
+        ],
+        "dns_ns": [
+            "root-dns.netcup.net"
+        ],
+        "domain": "xn--mcrosoft-tkb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_aaaa": [
+            "2607:f1c0:1000:70f7:7ec8:5c8a:eb6d:581b"
+        ],
+        "dns_mx": [
+            "mx00.ionos.com"
+        ],
+        "dns_ns": [
+            "ns1122.ui-dns.biz"
+        ],
+        "domain": "m1cros0ft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns63.domaincontrol.com"
+        ],
+        "domain": "micr0s0ft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1-02.azure-dns.com"
+        ],
+        "domain": "micr0soft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "lily.ns.cloudflare.com"
+        ],
+        "domain": "mierosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.dns-expired.com"
+        ],
+        "domain": "mlcr0soft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_aaaa": [
+            "2606:4700:3031::ac43:b3d4"
+        ],
+        "domain": "mlcros0ft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "dns.rebel.com"
+        ],
+        "domain": "nicrosoft.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.renewyourname.net"
+        ],
+        "domain": "xn--mcrosoft-u2a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.dns-parking.com"
+        ],
+        "domain": "xn--mcrosot-7ya40m.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_mx": [
+            "mx.post-protect.com"
+        ],
+        "dns_ns": [
+            "algin.ns.cloudflare.com"
+        ],
+        "domain": "xn--mcrsoft-7ya0d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns-cloud-e1.googledomains.com"
+        ],
+        "domain": "xn--micosoft-i0d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns15.domaincontrol.com"
+        ],
+        "domain": "xn--microoft-rwb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns-1442.awsdns-52.org"
+        ],
+        "domain": "xn--microsft-380d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns-cloud-a1.googledomains.com"
+        ],
+        "domain": "xn--microsft-r3a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns01.domaincontrol.com"
+        ],
+        "domain": "xn--microsof-69c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "domain": "xn--micrsoft-73a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns61.domaincontrol.com"
+        ],
+        "domain": "xn--mirosoft-lbb.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.o2switch.net"
+        ],
+        "domain": "mi-crosoft.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_ns": [
+            "a.share-dns.com"
+        ],
+        "domain": "micr-osoft.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_ns": [
+            "NS1.DOMAINRECOVER.com"
+        ],
+        "domain": "micro-soft.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_aaaa": [
+            "2a02:4780:43:d376:37c8:4354:80da:8508"
+        ],
+        "dns_mx": [
+            "mx1.hostinger.com"
+        ],
+        "dns_ns": [
+            "ns1.dns-parking.com"
+        ],
+        "domain": "microsof-t.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_a": [
+            "103.224.182.218"
+        ],
+        "domain": "microisoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "micdrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "micrdosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "microsdoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microseoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsofdt.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microsoift.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microspoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microwsoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "micrposoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "mifcrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "mixcrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "mkicrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "domain": "micrfosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "15.197.204.56"
+        ],
+        "domain": "micriosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "185.53.178.51"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "pmicrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "lmicrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "micfrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-02.azure-dns.com"
+        ],
+        "domain": "micerosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "micrlosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-07.azure-dns.com"
+        ],
+        "domain": "microesoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsaoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-05.azure-dns.com"
+        ],
+        "domain": "microskoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsloft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-03.azure-dns.com"
+        ],
+        "domain": "microsofgt.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsofrt.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsogft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-06.azure-dns.com"
+        ],
+        "domain": "microsolft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsopft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsotft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-04.azure-dns.com"
+        ],
+        "domain": "microszoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "mictrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-01.azure-dns.com"
+        ],
+        "domain": "miucrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-07.azure-dns.com"
+        ],
+        "domain": "mjicrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "moicrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-04.azure-dns.com"
+        ],
+        "domain": "muicrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "204.16.247.49"
+        ],
+        "dns_mx": [
+            "eforward1.registrar-servers.com"
+        ],
+        "dns_ns": [
+            "dns1.registrar-servers.com"
+        ],
+        "domain": "microsovft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "207.244.67.215"
+        ],
+        "dns_ns": [
+            "ns1.commonmx.com"
+        ],
+        "domain": "micro9soft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "m9icrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "domain": "mi8crosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "domain": "mi9crosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "micr0osoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "domain": "micr4osoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "micr5osoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "domain": "micrkosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "micros9oft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "microso0ft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "microso9ft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "domain": "microsxoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "microxsoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "domain": "mijcrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "microdsoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "dns_mx": [
+            "localhost"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "microsofct.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "75.2.37.224"
+        ],
+        "dns_ns": [
+            "ns1.ibspark.com"
+        ],
+        "domain": "microsocft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "mic4rosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "mic5rosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-08.azure-dns.com"
+        ],
+        "domain": "micr9osoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-04.azure-dns.com"
+        ],
+        "domain": "microasoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-07.azure-dns.com"
+        ],
+        "domain": "microlsoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "micros0oft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-03.azure-dns.com"
+        ],
+        "domain": "microsodft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "microsofvt.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "microsokft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-05.azure-dns.com"
+        ],
+        "domain": "microsorft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "microswoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "micrtosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "mikcrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "miocrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "mivcrosoft.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "icrosoft.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-08.azure-dns.com"
+        ],
+        "domain": "microoft.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "microsft.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-07.azure-dns.com"
+        ],
+        "domain": "microsof.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-05.azure-dns.com"
+        ],
+        "domain": "microsot.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-05.azure-dns.com"
+        ],
+        "domain": "micrsoft.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_ns": [
+            "ns1-04.azure-dns.com"
+        ],
+        "domain": "mirosoft.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "139.162.181.76"
+        ],
+        "dns_aaaa": [
+            "2a01:7e01::f03c:95ff:fe00:2692"
+        ],
+        "domain": "micrososft.com",
+        "fuzzer": "plural"
+    },
+    {
+        "dns_a": [
+            "162.210.195.123"
+        ],
+        "dns_ns": [
+            "ns1.wombatdns.com"
+        ],
+        "domain": "micsrosoft.com",
+        "fuzzer": "plural"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "micrsosoft.com",
+        "fuzzer": "plural"
+    },
+    {
+        "dns_ns": [
+            "ns1-04.azure-dns.com"
+        ],
+        "domain": "microssoft.com",
+        "fuzzer": "plural"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-06.azure-dns.com"
+        ],
+        "domain": "miccrosoft.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-03.azure-dns.com"
+        ],
+        "domain": "microosoft.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsofft.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-01.azure-dns.com"
+        ],
+        "domain": "microsooft.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "miicrosoft.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_ns": [
+            "ns1-03.azure-dns.com"
+        ],
+        "domain": "micrrosoft.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.217"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "mivrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.182.218"
+        ],
+        "domain": "micrlsoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "m9crosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "mic4osoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "micdosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "micfosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "mictosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "104.21.3.234"
+        ],
+        "dns_mx": [
+            "fallbackmx.spamexperts.eu"
+        ],
+        "dns_ns": [
+            "dale.ns.cloudflare.com"
+        ],
+        "domain": "microsort.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_ns": [
+            "ns1.dan.com"
+        ],
+        "domain": "mocrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "domain": "kicrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "162.254.36.135"
+        ],
+        "domain": "m8crosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "185.101.158.113"
+        ],
+        "dns_mx": [
+            "mail.microsofz.com"
+        ],
+        "dns_ns": [
+            "ns1.hosttech.at"
+        ],
+        "domain": "microsofz.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "185.107.56.203"
+        ],
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "domain": "microaoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "185.107.56.203"
+        ],
+        "domain": "mjcrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "185.53.177.50"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "microsott.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "microsofy.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "micrpsoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "midrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "miceosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "domain": "microsift.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-02.azure-dns.com"
+        ],
+        "domain": "microspft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "208.91.196.152"
+        ],
+        "domain": "microslft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "23.23.77.132"
+        ],
+        "dns_ns": [
+            "ns1.domain-is-4-sale-at-domainmarket.com"
+        ],
+        "domain": "microxoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "domain": "mic5osoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "5.22.145.121"
+        ],
+        "domain": "microzoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "93.115.28.104"
+        ],
+        "dns_ns": [
+            "ns1.rentondc.com"
+        ],
+        "domain": "mucrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1-05.azure-dns.com"
+        ],
+        "domain": "jicrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1-08.azure-dns.com"
+        ],
+        "domain": "micrisoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "microeoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.dyna-ns.net"
+        ],
+        "domain": "microsoct.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1-04.azure-dns.com"
+        ],
+        "domain": "microsof5.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1-01.azure-dns.com"
+        ],
+        "domain": "microsof6.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_mx": [
+            "mx.mixrosoft.com"
+        ],
+        "dns_ns": [
+            "fns.frogsmart.net"
+        ],
+        "domain": "mixrosoft.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "micr.osoft.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "dns_a": [
+            "31.14.98.119"
+        ],
+        "domain": "mi.crosoft.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "micros.oft.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "domain": "microosft.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "139.162.181.76"
+        ],
+        "dns_aaaa": [
+            "2a01:7e01::f03c:95ff:fe00:2692"
+        ],
+        "dns_ns": [
+            "anan.ns.giantpanda.com"
+        ],
+        "domain": "micorsoft.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "microsotf.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "20.112.250.133"
+        ],
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "mircosoft.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "imcrosoft.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_ns": [
+            "ns1-09.azure-dns.com"
+        ],
+        "domain": "microsfot.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "micrsooft.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "15.197.142.173"
+        ],
+        "domain": "microsoftcom.com",
+        "fuzzer": "various"
+    },
+    {
+        "dns_a": [
+            "103.224.182.217"
+        ],
+        "domain": "micresoft.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "52.71.57.184"
+        ],
+        "dns_ns": [
+            "nsg1.namebrightdns.com"
+        ],
+        "domain": "micrusoft.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "75.2.115.196"
+        ],
+        "domain": "microseft.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "mecrosoft.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_ns": [
+            "ns1-06.azure-dns.com"
+        ],
+        "domain": "micrasoft.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_ns": [
+            "ns1.simply.com"
+        ],
+        "domain": "microsaft.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_ns": [
+            "ns1-08.azure-dns.com"
+        ],
+        "domain": "microsuft.com",
+        "fuzzer": "vowel-swap"
+    }
+]

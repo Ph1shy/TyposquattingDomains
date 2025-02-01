@@ -1,1 +1,1911 @@
-test
+[
+    {
+        "dns_aaaa": [
+            "2a00:1450:4001:82b::200e"
+        ],
+        "dns_mx": [
+            "smtp.google.com"
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "google.com",
+        "fuzzer": "*original"
+    },
+    {
+        "dns_a": [
+            "103.224.182.239"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "googlen.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "107.161.23.204"
+        ],
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "domain": "googlew.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "109.234.111.119"
+        ],
+        "dns_ns": [
+            "ns1.ispapi.net"
+        ],
+        "domain": "googleh.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "142.250.186.132"
+        ],
+        "dns_aaaa": [
+            "2a00:1450:4001:82a::2004"
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "googlee.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "159.89.244.183"
+        ],
+        "domain": "googleg.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "162.210.195.123"
+        ],
+        "dns_ns": [
+            "ns1.wombatdns.com"
+        ],
+        "domain": "google6.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "162.210.196.166"
+        ],
+        "domain": "googlei.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "185.53.177.54"
+        ],
+        "domain": "google4.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "38.55.144.167"
+        ],
+        "dns_ns": [
+            "a.share-dns.com"
+        ],
+        "domain": "googlek.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "47.254.33.193"
+        ],
+        "dns_ns": [
+            "ns3.dns.com"
+        ],
+        "domain": "googleb.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "85.233.160.215"
+        ],
+        "domain": "googley.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "93.191.168.52"
+        ],
+        "domain": "google5.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "a.share-dns.com"
+        ],
+        "domain": "google0.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "google1.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "google3.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "google8.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_mx": [
+            "localhost"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "googlec.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googlef.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "domain": "googlem.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googleo.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googler.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "googlet.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googlex.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "googlez.com",
+        "fuzzer": "addition"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "woogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "185.107.56.197"
+        ],
+        "dns_ns": [
+            "ns1.commonmx.com"
+        ],
+        "domain": "goowle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "googhe.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "74.63.241.21"
+        ],
+        "dns_ns": [
+            "ns1.brainydns.com"
+        ],
+        "domain": "goofle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "94.23.163.182"
+        ],
+        "domain": "gooole.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "coogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_mx": [
+            "ALT1.ASPMX.L.GOOGLE.com"
+        ],
+        "dns_ns": [
+            "ns1.dreamhost.com"
+        ],
+        "domain": "foogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "ggogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gkogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gmogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gnogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gokgle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gomgle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "goocle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googde.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googlg.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "f1g1ns1.dnspod.net"
+        ],
+        "domain": "googlm.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "googme.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googne.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "ooogle.com",
+        "fuzzer": "bitsquatting"
+    },
+    {
+        "dns_a": [
+            "104.21.112.1"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3030::6815:1001"
+        ],
+        "domain": "xn--ggl-ljz8da.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "104.21.18.129"
+        ],
+        "domain": "xn--gogl-jpa0d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "104.21.27.12"
+        ],
+        "dns_ns": [
+            "kim.ns.cloudflare.com"
+        ],
+        "domain": "xn--gogl-ou5a2e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "104.21.5.106"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3032::6815:56a"
+        ],
+        "dns_ns": [
+            "keanu.ns.cloudflare.com"
+        ],
+        "domain": "xn--ggle-lqax.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "104.21.58.49"
+        ],
+        "dns_ns": [
+            "mira.ns.cloudflare.com"
+        ],
+        "domain": "xn--oole-9pbc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "104.21.60.133"
+        ],
+        "dns_ns": [
+            "jose.ns.cloudflare.com"
+        ],
+        "domain": "g00qle.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "107.180.21.235"
+        ],
+        "dns_ns": [
+            "ns03.domaincontrol.com"
+        ],
+        "domain": "xn--oole-z7bc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.144.105"
+        ],
+        "dns_ns": [
+            "dns1.registrar-servers.com"
+        ],
+        "domain": "xn--googe-y6a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.144.105"
+        ],
+        "domain": "xn--gooqe-n7a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "domain": "xn--ggle-0qaf.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "domain": "xn--ggle-vqag.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "dns_ns": [
+            "ns3.afternic.com"
+        ],
+        "domain": "xn--gogle-vua.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.213.45"
+        ],
+        "domain": "xn--ggle-lqaa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.213.45"
+        ],
+        "dns_ns": [
+            "ns09.domaincontrol.com"
+        ],
+        "domain": "xn--ggle-v0ba.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.213.45"
+        ],
+        "dns_ns": [
+            "ns61.domaincontrol.com"
+        ],
+        "domain": "xn--gogl-epa2e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.213.45"
+        ],
+        "domain": "xn--gogl-epa3e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.213.45"
+        ],
+        "dns_ns": [
+            "ns53.domaincontrol.com"
+        ],
+        "domain": "xn--googl-mza.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "13.248.243.5"
+        ],
+        "dns_ns": [
+            "ns65.domaincontrol.com"
+        ],
+        "domain": "xn--googl-b0a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "137.184.222.115"
+        ],
+        "dns_ns": [
+            "ns1.digitalocean.com"
+        ],
+        "domain": "xn--gogle-g9a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "146.190.30.220"
+        ],
+        "dns_ns": [
+            "ns1gjz.name.com"
+        ],
+        "domain": "xn--gogl-epa1g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "domain": "gooqlc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "domain": "qoogie.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "ns33.domaincontrol.com"
+        ],
+        "domain": "xn--ggl-dma6ea.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "domain": "xn--gogle-h9a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "ns37.domaincontrol.com"
+        ],
+        "domain": "xn--gool-yva2d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "ns17.domaincontrol.com"
+        ],
+        "domain": "xn--goole-y1a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "domain": "xn--oogl-yva9c.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "15.197.204.56"
+        ],
+        "domain": "xn--gogle-wua.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "150.109.156.131"
+        ],
+        "dns_ns": [
+            "ns-1207.awsdns-22.org"
+        ],
+        "domain": "xn--googe-wsa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "168.206.28.196"
+        ],
+        "dns_ns": [
+            "a.share-dns.com"
+        ],
+        "domain": "go0qle.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "185.92.223.114"
+        ],
+        "dns_ns": [
+            "dns103.ovh.net"
+        ],
+        "domain": "qoog1e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "192.241.130.219"
+        ],
+        "dns_ns": [
+            "ns1.digitalocean.com"
+        ],
+        "domain": "xn--gooe-21a19g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "192.241.130.219"
+        ],
+        "domain": "xn--gool-yva84j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "192.241.130.219"
+        ],
+        "dns_ns": [
+            "ns1.digitalocean.com"
+        ],
+        "domain": "xn--oole-cxa78i.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "192.64.119.21"
+        ],
+        "domain": "xn--goqle-6dc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "198.185.159.145"
+        ],
+        "domain": "xn--gogle-n29a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "xn--ggl-8la6ca.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "xn--ggle-q33aa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.dyna-ns.net"
+        ],
+        "domain": "xn--googe-p3a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "xn--oole-zwac.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "213.186.33.5"
+        ],
+        "dns_mx": [
+            "mx1.mail.ovh.net"
+        ],
+        "dns_ns": [
+            "dns112.ovh.net"
+        ],
+        "domain": "xn--googl-z0a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "217.70.184.38"
+        ],
+        "domain": "xn--gogle-381b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "23.231.43.107"
+        ],
+        "domain": "q0ogle.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "3.124.100.143"
+        ],
+        "dns_ns": [
+            "dns1.p02.nsone.net"
+        ],
+        "domain": "xn--gogl-jpa1d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "3.135.221.82"
+        ],
+        "dns_ns": [
+            "ns1dhq.name.com"
+        ],
+        "domain": "xn--googe-m6a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "3.18.7.81"
+        ],
+        "dns_ns": [
+            "domain-for-sale.hugedomainsdns.com"
+        ],
+        "domain": "g00g1e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "37.48.65.153"
+        ],
+        "dns_ns": [
+            "ns1.quokkadns.com"
+        ],
+        "domain": "xn--googl-fsa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "52.165.155.237"
+        ],
+        "dns_ns": [
+            "ns-cloud-b1.googledomains.com"
+        ],
+        "domain": "xn--googe-q4a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "69.16.230.165"
+        ],
+        "domain": "g0ogle.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "g00gie.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "dns1.registrar-servers.com"
+        ],
+        "domain": "go0g1e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "go0gle.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "goog1e.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "googic.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_mx": [
+            "mx001.netsol.xion.oxcs.net"
+        ],
+        "dns_ns": [
+            "ns23.worldnic.com"
+        ],
+        "domain": "googie.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "dns13.hichina.com"
+        ],
+        "domain": "gooqie.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_aaaa": [
+            "2606:4700:3030::6815:1001"
+        ],
+        "dns_ns": [
+            "celeste.ns.cloudflare.com"
+        ],
+        "domain": "q00gle.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns-1212.awsdns-23.org"
+        ],
+        "domain": "qooglc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns01.domaincontrol.com"
+        ],
+        "domain": "xn--ggie-gx5aa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns-cloud-e1.googledomains.com"
+        ],
+        "domain": "xn--ggle-0qaa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_mx": [
+            "route1.mx.cloudflare.net"
+        ],
+        "dns_ns": [
+            "chris.ns.cloudflare.com"
+        ],
+        "domain": "xn--ggle-5qaa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--ggle-gx5aa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns-cloud-e1.googledomains.com"
+        ],
+        "domain": "xn--ggle-lgba.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_mx": [
+            "mx.post-protect.org"
+        ],
+        "dns_ns": [
+            "algin.ns.cloudflare.com"
+        ],
+        "domain": "xn--ggle-qqaa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns05.domaincontrol.com"
+        ],
+        "domain": "xn--ggle-qqaf.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns03.domaincontrol.com"
+        ],
+        "domain": "xn--gogl-epa0d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1gjz.name.com"
+        ],
+        "domain": "xn--gogl-epa1d.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--gogle-6dc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "dns_ns": [
+            "ns1.redfoxdns.com"
+        ],
+        "domain": "xn--gogle-6ta.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--gogle-7dc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--gogle-7ta.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1crv.name.com"
+        ],
+        "domain": "xn--gogle-eua.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns57.domaincontrol.com"
+        ],
+        "domain": "xn--gogle-jua.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--gogle-kua.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--gogle-uob.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--gogle-vob.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--gogle-vta.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns-cloud-a1.googledomains.com"
+        ],
+        "domain": "xn--googe-2sa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--googe-7nc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.iwantmyname.net"
+        ],
+        "domain": "xn--googe-n7a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--googl-r51b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "xn--goole-b2a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_aaaa": [
+            "2606:4700:3030::6815:1001"
+        ],
+        "dns_ns": [
+            "grace.ns.cloudflare.com"
+        ],
+        "domain": "xn--goole-b3b.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_aaaa": [
+            "2606:4700:3030::6815:1001"
+        ],
+        "domain": "xn--gooql-lsa.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.digitalocean.com"
+        ],
+        "domain": "xn--ooge-21a88g.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.digitalocean.com"
+        ],
+        "domain": "xn--oogl-yva54j.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "domain": "xn--oogle-j1a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns1.markmonitor.com"
+        ],
+        "domain": "xn--oogle-qmc.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_ns": [
+            "ns33.domaincontrol.com"
+        ],
+        "domain": "xn--oogle-v1a.com",
+        "fuzzer": "homoglyph"
+    },
+    {
+        "dns_a": [
+            "66.96.149.22"
+        ],
+        "dns_mx": [
+            "mx.go-ogle.com"
+        ],
+        "dns_ns": [
+            "ns1.mydomain.com"
+        ],
+        "domain": "go-ogle.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_a": [
+            "74.208.236.69"
+        ],
+        "dns_aaaa": [
+            "2607:f1c0:100f:f000::22a"
+        ],
+        "dns_mx": [
+            "mx00.ionos.com"
+        ],
+        "dns_ns": [
+            "ns1065.ui-dns.biz"
+        ],
+        "domain": "goog-le.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_ns": [
+            "ns77.domaincontrol.com"
+        ],
+        "domain": "g-oogle.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "goo-gle.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_ns": [
+            "ns-1438.awsdns-51.org"
+        ],
+        "domain": "googl-e.com",
+        "fuzzer": "hyphenation"
+    },
+    {
+        "dns_a": [
+            "103.224.182.207"
+        ],
+        "domain": "googlpe.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.207"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "googvle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.238"
+        ],
+        "domain": "goobgle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "gvoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "103.224.182.250"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "go9ogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "104.143.9.110"
+        ],
+        "dns_ns": [
+            "myns1.fabulous.com"
+        ],
+        "domain": "gpoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "107.161.23.204"
+        ],
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "domain": "bgoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "107.161.23.204"
+        ],
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "domain": "googlke.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "107.161.23.204"
+        ],
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "domain": "gopogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "107.161.23.204"
+        ],
+        "dns_ns": [
+            "ns1.dnsowl.com"
+        ],
+        "domain": "hgoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "107.161.23.204"
+        ],
+        "domain": "tgoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "15.197.225.128"
+        ],
+        "domain": "gzoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "172.93.194.59"
+        ],
+        "dns_ns": [
+            "ns1.domainmx.com"
+        ],
+        "domain": "gboogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "185.53.178.50"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "goofgle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "185.53.178.51"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "gioogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "gookgle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "gyoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "207.244.67.138"
+        ],
+        "domain": "goopgle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "209.126.123.13"
+        ],
+        "dns_ns": [
+            "ns1.torresdns.com"
+        ],
+        "domain": "googloe.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "34.196.13.28"
+        ],
+        "dns_mx": [
+            "mail.happyisp.com"
+        ],
+        "dns_ns": [
+            "ns1.pql.net"
+        ],
+        "domain": "fgoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "44.230.85.241"
+        ],
+        "dns_ns": [
+            "curitiba.ns.porkbun.com"
+        ],
+        "domain": "g9oogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "69.16.230.165"
+        ],
+        "dns_mx": [
+            "mx156.hostedmxserver.com"
+        ],
+        "dns_ns": [
+            "ns1.parklogic.com"
+        ],
+        "domain": "googmle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "95.211.189.137"
+        ],
+        "dns_ns": [
+            "ns1.smtmdns.com"
+        ],
+        "domain": "go0ogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "g0oogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "ghoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "gkoogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "goiogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "gokogle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gologle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.parklogic.com"
+        ],
+        "domain": "googble.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "googfle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googhle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gooigle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "goolgle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gootgle.com",
+        "fuzzer": "insertion"
+    },
+    {
+        "dns_a": [
+            "142.250.186.68"
+        ],
+        "dns_aaaa": [
+            "2a00:1450:4001:828::2004"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "googl.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_a": [
+            "162.243.10.151"
+        ],
+        "dns_ns": [
+            "ns1.hsicell.com"
+        ],
+        "domain": "googe.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_aaaa": [
+            "2a00:1450:4001:828::2004"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "gogle.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_ns": [
+            "ns1083.ui-dns.biz"
+        ],
+        "domain": "goole.com",
+        "fuzzer": "omission"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "goosgle.com",
+        "fuzzer": "plural"
+    },
+    {
+        "dns_a": [
+            "104.21.83.75"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3030::6815:534b"
+        ],
+        "domain": "googlle.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "172.217.23.100"
+        ],
+        "dns_aaaa": [
+            "2a00:1450:4001:800::2004"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "gooogle.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_aaaa": [
+            "2a00:1450:4001:82b::2004"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "ggoogle.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googgle.com",
+        "fuzzer": "repetition"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "g9ogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "domain": "boogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "142.250.185.132"
+        ],
+        "domain": "googlr.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "15.197.148.33"
+        ],
+        "dns_ns": [
+            "ns33.domaincontrol.com"
+        ],
+        "domain": "toogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "15.197.225.128"
+        ],
+        "domain": "hoogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "192.254.233.61"
+        ],
+        "dns_mx": [
+            "mail.zoogle.com"
+        ],
+        "dns_ns": [
+            "ns6461.hostgator.com"
+        ],
+        "domain": "zoogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "googoe.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "gooyle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "47.254.33.193"
+        ],
+        "dns_ns": [
+            "ns3.dns.com"
+        ],
+        "domain": "goohle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "50.62.97.1"
+        ],
+        "dns_mx": [
+            "mailstore1.secureserver.net"
+        ],
+        "dns_ns": [
+            "ns29.domaincontrol.com"
+        ],
+        "domain": "goozle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "go9gle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "64.190.63.222"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "gooble.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "69.162.95.2"
+        ],
+        "domain": "goovle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "82.192.82.227"
+        ],
+        "dns_ns": [
+            "ns1.magpiedns.com"
+        ],
+        "domain": "gpogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "giogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "golgle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googke.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "googl4.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googls.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "googpe.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "gootle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gopgle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "voogle.com",
+        "fuzzer": "replacement"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "goo.gle.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "dns_aaaa": [
+            "2606:4700:3032::ac43:b945"
+        ],
+        "domain": "g.oogle.com",
+        "fuzzer": "subdomain"
+    },
+    {
+        "dns_a": [
+            "142.250.185.132"
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "ogogle.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "142.250.186.132"
+        ],
+        "dns_aaaa": [
+            "2a00:1450:4001:82a::2004"
+        ],
+        "domain": "gogole.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "172.217.16.196"
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "googel.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_aaaa": [
+            "2a00:1450:4001:80b::2004"
+        ],
+        "dns_mx": [
+            ""
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "goolge.com",
+        "fuzzer": "transposition"
+    },
+    {
+        "dns_a": [
+            "142.250.185.196"
+        ],
+        "dns_aaaa": [
+            "2a00:1450:4001:812::2004"
+        ],
+        "dns_ns": [
+            "ns1.google.com"
+        ],
+        "domain": "googlecom.com",
+        "fuzzer": "various"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "goegle.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "107.180.51.12"
+        ],
+        "dns_mx": [
+            "mail.gaogle.com"
+        ],
+        "dns_ns": [
+            "ns25.domaincontrol.com"
+        ],
+        "domain": "gaogle.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "78.41.204.32"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "dns_ns": [
+            "ns1.torresdns.com"
+        ],
+        "domain": "geogle.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_a": [
+            "89.145.66.234"
+        ],
+        "domain": "goagle.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_ns": [
+            "freedns1.registrar-servers.com"
+        ],
+        "domain": "googli.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_ns": [
+            "ns1.googledomains.com"
+        ],
+        "domain": "gougle.com",
+        "fuzzer": "vowel-swap"
+    },
+    {
+        "dns_mx": [
+            "localhost"
+        ],
+        "dns_ns": [
+            "ns1.sedoparking.com"
+        ],
+        "domain": "guogle.com",
+        "fuzzer": "vowel-swap"
+    }
+]

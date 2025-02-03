@@ -1,0 +1,989 @@
+[
+    {
+        "dns_a": [
+            "20.190.181.0"
+        ],
+        "dns_aaaa": [
+            "2603:1027:1:28::12"
+        ],
+        "domain": "login.microsoftonline.com",
+        "fuzzer": "*original",
+        "whois_created": "2002-07-09",
+        "whois_registrar": "MarkMonitor Inc."
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftonlinee.com",
+        "fuzzer": "addition",
+        "whois_created": "2016-08-13",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "137.184.249.246"
+        ],
+        "domain": "login.microsoftonliner.com",
+        "fuzzer": "addition",
+        "whois_created": "2022-11-29",
+        "whois_registrar": "Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA"
+    },
+    {
+        "dns_a": [
+            "149.102.153.127"
+        ],
+        "domain": "login.microsoftonlines.com",
+        "fuzzer": "addition",
+        "whois_created": "2024-04-12",
+        "whois_registrar": "123-Reg Limited"
+    },
+    {
+        "dns_a": [
+            "35.173.78.238"
+        ],
+        "domain": "login.microsoftonline1.com",
+        "fuzzer": "addition",
+        "whois_created": "2019-10-03",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "185.53.177.52"
+        ],
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "login.macrosoftonline.com",
+        "fuzzer": "bitsquatting",
+        "whois_created": "2016-01-18",
+        "whois_registrar": "Key-Systems GmbH"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsodtonline.com",
+        "fuzzer": "bitsquatting",
+        "whois_created": "2018-11-06",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsogtonline.com",
+        "fuzzer": "bitsquatting",
+        "whois_created": "2018-12-08",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "20.105.232.51"
+        ],
+        "domain": "login.microroftonline.com",
+        "fuzzer": "bitsquatting",
+        "whois_created": "2024-04-30",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.243"
+        ],
+        "domain": "login.microsoftomline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2011-07-23",
+        "whois_registrar": "Sea Wasp, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.243"
+        ],
+        "domain": "login.microsoftonlime.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2011-07-23",
+        "whois_registrar": "Sea Wasp, LLC"
+    },
+    {
+        "dns_a": [
+            "104.21.10.95"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3030::6815:a5f"
+        ],
+        "domain": "login.m1cros0ftonline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2024-05-01",
+        "whois_registrar": "Cloudflare, Inc."
+    },
+    {
+        "dns_a": [
+            "109.206.232.248"
+        ],
+        "domain": "login.xn--mcrosoftonlne-iibz.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2024-06-26",
+        "whois_registrar": "Infomaniak Network SA"
+    },
+    {
+        "dns_a": [
+            "116.203.137.224"
+        ],
+        "domain": "login.xn--microsoftonlie-ipc.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2020-02-20",
+        "whois_registrar": "InterNetX GmbH"
+    },
+    {
+        "dns_a": [
+            "128.140.34.177"
+        ],
+        "domain": "login.mlcrosoft0nline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2024-10-16",
+        "whois_registrar": "Hetzner Online GmbH"
+    },
+    {
+        "dns_a": [
+            "146.59.251.223"
+        ],
+        "domain": "login.rmicrosoftonline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2021-04-14",
+        "whois_registrar": "OVH sas"
+    },
+    {
+        "dns_a": [
+            "149.28.117.119"
+        ],
+        "domain": "login.microsoftonllne.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2020-04-21",
+        "whois_registrar": "Squarespace Domains II LLC"
+    },
+    {
+        "dns_a": [
+            "15.197.204.56"
+        ],
+        "domain": "login.microsoftonlinne.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2022-12-28",
+        "whois_registrar": "Cosmotown, Inc."
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftonilne.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2023-01-06",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftonnline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2013-07-01",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "34.207.56.245"
+        ],
+        "domain": "login.microsoftorline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2023-06-01",
+        "whois_registrar": "Amazon Registrar, Inc."
+    },
+    {
+        "dns_a": [
+            "44.227.65.245"
+        ],
+        "domain": "login.m1crosoftonl1ne.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2024-09-25",
+        "whois_registrar": "Porkbun LLC"
+    },
+    {
+        "dns_a": [
+            "52.14.91.139"
+        ],
+        "dns_ns": [
+            "ns43.domaincontrol.com"
+        ],
+        "domain": "login.xn--microsoftonlne-wdc.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2023-01-10",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "52.62.97.110"
+        ],
+        "domain": "login.microsoftoniine.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2019-08-02",
+        "whois_registrar": "Synergy Wholesale Accreditations Pty Ltd"
+    },
+    {
+        "dns_a": [
+            "54.38.52.220"
+        ],
+        "dns_ns": [
+            "norm.ns.cloudflare.com"
+        ],
+        "domain": "login.xn--microsoftonlne-678g.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2024-09-20",
+        "whois_registrar": "Name.com, Inc."
+    },
+    {
+        "dns_a": [
+            "62.213.198.49"
+        ],
+        "domain": "login.rnicrosoftonline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2013-03-04",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "91.202.233.139"
+        ],
+        "domain": "login.xn--mcrosoftonlne-sibe.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2024-04-18",
+        "whois_registrar": "Tucows Domains Inc."
+    },
+    {
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "login.mmicrosoftonline.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2016-04-16",
+        "whois_registrar": "TurnCommerce, Inc. DBA NameBright.com"
+    },
+    {
+        "dns_aaaa": [
+            "2606:4700::6812:8f7"
+        ],
+        "domain": "login.xn--microsoftonlne-wlb.com",
+        "fuzzer": "homoglyph",
+        "whois_created": "2018-01-19",
+        "whois_registrar": "Gandi SAS"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "login.microsoft-online.com",
+        "fuzzer": "hyphenation",
+        "whois_created": "2018-02-15",
+        "whois_registrar": "NameSilo, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.243"
+        ],
+        "domain": "login.microsofttonline.com",
+        "fuzzer": "insertion",
+        "whois_created": "2011-07-06",
+        "whois_registrar": "Sea Wasp, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.244"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsofftonline.com",
+        "fuzzer": "insertion",
+        "whois_created": "2020-04-19",
+        "whois_registrar": "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftonlione.com",
+        "fuzzer": "insertion",
+        "whois_created": "2013-07-01",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsolftonline.com",
+        "fuzzer": "insertion",
+        "whois_created": "2013-07-01",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "104.21.20.24"
+        ],
+        "domain": "login.microsofrtonline.com",
+        "fuzzer": "insertion",
+        "whois_created": "2023-04-05",
+        "whois_registrar": "IONOS SE"
+    },
+    {
+        "dns_a": [
+            "3.84.57.143"
+        ],
+        "domain": "login.micrtosoftonline.com",
+        "fuzzer": "insertion",
+        "whois_created": "2024-10-07",
+        "whois_registrar": "Amazon Registrar, Inc."
+    },
+    {
+        "dns_a": [
+            "103.224.182.243"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftnline.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-07-06",
+        "whois_registrar": "Sea Wasp, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.243"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftonlne.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-07-06",
+        "whois_registrar": "Sea Wasp, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.245"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftonlin.com",
+        "fuzzer": "omission",
+        "whois_created": "2015-07-09",
+        "whois_registrar": "Alibaba Cloud Computing (Beijing) Co., Ltd."
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.mcrosoftonline.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-02-01",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsotonline.com",
+        "fuzzer": "omission",
+        "whois_created": "2015-07-07",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "185.53.179.170"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "login.icrosoftonline.com",
+        "fuzzer": "omission",
+        "whois_created": "2012-11-13",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsofonline.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-01-22",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftoline.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-02-01",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftonlie.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-07-05",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.micrsoftonline.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-01-22",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.mirosoftonline.com",
+        "fuzzer": "omission",
+        "whois_created": "2011-11-25",
+        "whois_registrar": "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)"
+    },
+    {
+        "dns_a": [
+            "103.224.182.217"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.micrososftonline.com",
+        "fuzzer": "plural",
+        "whois_created": "2011-02-15",
+        "whois_registrar": "Sea Wasp, LLC"
+    },
+    {
+        "dns_a": [
+            "134.209.204.129"
+        ],
+        "domain": "login.microsoftonsline.com",
+        "fuzzer": "plural",
+        "whois_created": "2025-01-20",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microssoftonline.com",
+        "fuzzer": "plural",
+        "whois_created": "2021-12-17",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "209.196.146.115"
+        ],
+        "domain": "login.microsoftsonline.com",
+        "fuzzer": "plural",
+        "whois_created": "2021-08-30",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "103.224.182.244"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftonliine.com",
+        "fuzzer": "repetition",
+        "whois_created": "2021-10-11",
+        "whois_registrar": "Sav.com, LLC"
+    },
+    {
+        "dns_a": [
+            "15.197.204.56"
+        ],
+        "dns_ns": [
+            "ns1.smartname.com"
+        ],
+        "domain": "login.microosoftonline.com",
+        "fuzzer": "repetition",
+        "whois_created": "2020-11-24",
+        "whois_registrar": "Sav.com, LLC"
+    },
+    {
+        "dns_a": [
+            "173.239.5.6"
+        ],
+        "domain": "login.micrrosoftonline.com",
+        "fuzzer": "repetition",
+        "whois_created": "2014-07-14",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.miccrosoftonline.com",
+        "fuzzer": "repetition",
+        "whois_created": "2021-08-04",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftoonline.com",
+        "fuzzer": "repetition",
+        "whois_created": "2017-01-22",
+        "whois_registrar": "Sav.com, LLC"
+    },
+    {
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsooftonline.com",
+        "fuzzer": "repetition",
+        "whois_created": "2017-07-04",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "103.224.182.241"
+        ],
+        "domain": "login.micrpsoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2024-03-17",
+        "whois_registrar": "DropCatch.com 1388 LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.244"
+        ],
+        "domain": "login.microsoftpnline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2023-01-15",
+        "whois_registrar": "Sav.com, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.244"
+        ],
+        "domain": "login.microspftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2019-12-21",
+        "whois_registrar": "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)"
+    },
+    {
+        "dns_a": [
+            "103.224.182.244"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.mocrosoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2023-08-04",
+        "whois_registrar": "Spaceship, Inc."
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "login.microsoftonlone.com",
+        "fuzzer": "replacement",
+        "whois_created": "2015-11-04",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "157.56.161.162"
+        ],
+        "domain": "login.microsoftonlihe.com",
+        "fuzzer": "replacement",
+        "whois_created": "2016-03-22",
+        "whois_registrar": "MarkMonitor Inc."
+    },
+    {
+        "dns_a": [
+            "162.219.72.248"
+        ],
+        "domain": "login.microsoftonljne.com",
+        "fuzzer": "replacement",
+        "whois_created": "2017-10-16",
+        "whois_registrar": "DreamHost, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.miceosoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2018-12-08",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.micrisoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2018-11-06",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microaoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2018-12-08",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsiftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2021-12-17",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsofronline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2013-07-01",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftonkine.com",
+        "fuzzer": "replacement",
+        "whois_created": "2019-05-15",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftonlinr.com",
+        "fuzzer": "replacement",
+        "whois_created": "2021-12-17",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftonlune.com",
+        "fuzzer": "replacement",
+        "whois_created": "2019-05-15",
+        "whois_registrar": "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsofyonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2018-12-08",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.mucrosoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2019-05-15",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "34.205.242.146"
+        ],
+        "domain": "login.microzoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2022-03-01",
+        "whois_registrar": "TurnCommerce, Inc. DBA NameBright.com"
+    },
+    {
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftinline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2021-10-11",
+        "whois_registrar": "Key-Systems GmbH"
+    },
+    {
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftonlibe.com",
+        "fuzzer": "replacement",
+        "whois_created": "2019-12-21",
+        "whois_registrar": "Sav.com, LLC"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsoftonlinw.com",
+        "fuzzer": "replacement",
+        "whois_created": "2019-05-15",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_ns": [
+            "ns111484.ztomy.com"
+        ],
+        "domain": "login.mictosoftonline.com",
+        "fuzzer": "replacement",
+        "whois_created": "2016-01-13",
+        "whois_registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com"
+    },
+    {
+        "dns_a": [
+            "13.248.169.48"
+        ],
+        "dns_ns": [
+            "ns1.namefind.com"
+        ],
+        "domain": "login.microsofto.nline.com",
+        "fuzzer": "subdomain",
+        "whois_created": "1998-04-13",
+        "whois_registrar": "Porkbun LLC"
+    },
+    {
+        "dns_a": [
+            "173.255.194.134"
+        ],
+        "dns_mx": [
+            "mail.mailerhost.net"
+        ],
+        "dns_ns": [
+            "ns1.mytrafficmanagement.com"
+        ],
+        "domain": "login.micro.softonline.com",
+        "fuzzer": "subdomain",
+        "whois_created": "2002-07-18",
+        "whois_registrar": "GoDaddy Online Services Cayman Islands Ltd."
+    },
+    {
+        "dns_a": [
+            "216.245.213.78"
+        ],
+        "domain": "login.micr.osoftonline.com",
+        "fuzzer": "subdomain",
+        "whois_created": "2021-04-12",
+        "whois_registrar": "Media Elite Holdings Limited"
+    },
+    {
+        "dns_mx": [
+            "mail.h-email.net"
+        ],
+        "dns_ns": [
+            "ns1.parkingcrew.net"
+        ],
+        "domain": "login.m.icrosoftonline.com",
+        "fuzzer": "subdomain",
+        "whois_created": "2012-11-13",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microosftonline.com",
+        "fuzzer": "transposition",
+        "whois_created": "2017-05-05",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "103.224.182.246"
+        ],
+        "domain": "login.microsotfonline.com",
+        "fuzzer": "transposition",
+        "whois_created": "2017-01-15",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "103.224.182.251"
+        ],
+        "domain": "login.mircosoftonline.com",
+        "fuzzer": "transposition",
+        "whois_created": "2011-07-05",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.microsoftonlien.com",
+        "fuzzer": "transposition",
+        "whois_created": "2013-07-01",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "213.164.19.147"
+        ],
+        "dns_mx": [
+            "mail.micrsooftonline.com"
+        ],
+        "dns_ns": [
+            "ns43.domaincontrol.com"
+        ],
+        "domain": "login.micrsooftonline.com",
+        "fuzzer": "transposition",
+        "whois_created": "2024-02-22",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "77.247.179.91"
+        ],
+        "domain": "login.micorsoftonline.com",
+        "fuzzer": "transposition",
+        "whois_created": "2023-08-04",
+        "whois_registrar": "Travel Domains, LLC"
+    },
+    {
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "domain": "login.microsfotonline.com",
+        "fuzzer": "transposition",
+        "whois_created": "2021-10-11",
+        "whois_registrar": "Key-Systems GmbH"
+    },
+    {
+        "dns_a": [
+            "3.124.91.152"
+        ],
+        "dns_ns": [
+            "freedns1.neoserv.si"
+        ],
+        "domain": "login-microsoftonline.com",
+        "fuzzer": "various",
+        "whois_created": "2024-06-04",
+        "whois_registrar": "Gransy, s.r.o."
+    },
+    {
+        "dns_ns": [
+            "ns1.bodis.com"
+        ],
+        "domain": "loginmicrosoftonline.com",
+        "fuzzer": "various",
+        "whois_created": "2011-11-13",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "134.122.32.105"
+        ],
+        "domain": "login.microsoftonlene.com",
+        "fuzzer": "vowel-swap",
+        "whois_created": "2024-01-21",
+        "whois_registrar": "DreamHost, LLC"
+    },
+    {
+        "dns_a": [
+            "199.59.243.228"
+        ],
+        "domain": "login.micresoftonline.com",
+        "fuzzer": "vowel-swap",
+        "whois_created": "2023-04-17",
+        "whois_registrar": "Dynadot Inc"
+    },
+    {
+        "dns_a": [
+            "34.130.16.44"
+        ],
+        "dns_mx": [
+            "mnpmail.ca"
+        ],
+        "dns_ns": [
+            "ns31.domaincontrol.com"
+        ],
+        "domain": "login.microsoftenline.com",
+        "fuzzer": "vowel-swap",
+        "whois_created": "2023-10-16",
+        "whois_registrar": "GoDaddy.com, LLC"
+    },
+    {
+        "dns_a": [
+            "40.69.84.231"
+        ],
+        "domain": "login.microsuftonline.com",
+        "fuzzer": "vowel-swap",
+        "whois_created": "2019-04-25",
+        "whois_registrar": "GoDaddy.com, LLC"
+    }
+]
